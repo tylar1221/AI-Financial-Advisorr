@@ -61,11 +61,13 @@ A chatbot-based financial assistant accessible through WhatsApp and Telegram, fe
 
 ### Login
 
-![Login](<img/Screenshot 2025-02-09 193244-1.png>)
+![image](https://github.com/user-attachments/assets/6caffe20-8fca-43ed-b7ac-40518dd0ddfd)
+
+
 
 ### Dashboard
 
-![Dashboard](<img/Screenshot 2025-02-09 193444.png>)
+![image](https://github.com/user-attachments/assets/9e59066f-bcd9-4004-a2ca-babd8fb80c7d)
 
 ### Learning Modules
 

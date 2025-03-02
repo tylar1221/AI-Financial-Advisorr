@@ -71,47 +71,47 @@ A chatbot-based financial assistant accessible through WhatsApp and Telegram, fe
 
 ### Learning Modules
 
-![Learning Modules](<img/Screenshot 2025-02-09 193453.png>)
+![Learning Modules](<Screenshot 2025-02-09 193453.png>)
 
 ### Financial Literacy Model
 
-![Financial Literacy Model](<img/Screenshot 2025-02-09 193515.png>)
+![Financial Literacy Model](<Screenshot 2025-02-09 193515.png>)
 
 ### Video-Quiz
 
-![Video-Quiz](<img/Screenshot 2025-02-09 193521.png>)
+![Video-Quiz](<Screenshot 2025-02-09 193521.png>)
 
 ### Financial Tools
 
-![Financial Tools](<img/Screenshot 2025-02-09 193629.png>)
+![Financial Tools](<Screenshot 2025-02-09 193629.png>)
 
 ### Budget Goal Tracker
 
-![Budget Goal Tracker](<img/Screenshot 2025-02-09 193530.png>)
+![Budget Goal Tracker](<Screenshot 2025-02-09 193530.png>)
 
 ### Loan Eligibility Calculator
 
-![Loan Eligibility Calculator](<img/Screenshot 2025-02-09 193538.png>)
+![Loan Eligibility Calculator](< Screenshot 2025-02-09 193538.png>)
 
 ### Smart Savings Planner
 
-![Smart Savings Planner](<img/Screenshot 2025-02-09 193550.png>)
+![Smart Savings Planner](< Screenshot 2025-02-09 193550.png>)
 
 ### Smart Investment Guide
 
-![Smart Investment Guide](<img/Screenshot 2025-02-09 193558.png>)
+![Smart Investment Guide](< Screenshot 2025-02-09 193558.png>)
 
 ### Community & Mentorship
 
-![Community & Mentorship](<img/Screenshot 2025-02-09 193610.png>)
+![Community & Mentorship](< Screenshot 2025-02-09 193610.png>)
 
 ### Goals Dashboard
 
-![Goals Dashboard](<img/Screenshot 2025-02-09 193620.png>)
+![Goals Dashboard](< Screenshot 2025-02-09 193620.png>)
 
 ### News
 
-![News](<img/Screenshot 2025-02-09 193636.png>)
+![News](< Screenshot 2025-02-09 193636.png>)
 
 ## Installation & Usage
 
